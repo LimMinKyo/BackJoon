@@ -1,6 +1,6 @@
 // console.log(process.cwd());
 const fs = require('fs');
-// const filePath = "./01. 입출력과 사칙연산/11. 곱셈/input.txt";
+// const filePath = "./01. 입출력과 사칙연산/13. 곱셈/input.txt";
 // const input = fs.readFileSync(filePath).toString().split('\n').map(value => +value);
 const input = fs.readFileSync("/dev/stdin").toString().split('\n').map(value => +value);
 
