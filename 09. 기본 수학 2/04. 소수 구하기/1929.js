@@ -6,7 +6,7 @@ const input = fs.readFileSync('/dev/stdin').toString().split(' ').map(value => +
 const [M, N] = input;
 
 const isPrimeNumbers = new Array(N + 1).fill(true);
-isPrimeNumbers[0] = false;
+isPrimeNumbers[1] = false;
 
 for (let i = 2; i <= Math.ceil(Math.sqrt(N)); i++) {
   if (isPrimeNumbers[i]) {
