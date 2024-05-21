@@ -25,7 +25,7 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [Hello World](https://www.acmicpc.net/problem/2557) | [풀이](./01.%20입출력과%20사칙연산/01.%20Hello%20World) |  |
-| 02 | [We love kriii](https://www.acmicpc.net/problem/10718) | [풀이](./01.%20입출력과%20사칙연산/02.%20We%20love%20kriii/10718.js) |  |
+<!-- | 02 | [We love kriii](https://www.acmicpc.net/problem/10718) | [풀이](./01.%20입출력과%20사칙연산/02.%20We%20love%20kriii/10718.js) |  | -->
 | 03 | [고양이](https://www.acmicpc.net/problem/10171) | [풀이](./01.%20입출력과%20사칙연산/03.%20고양이/10171.js) | [메모](./01.%20입출력과%20사칙연산/03.%20고양이/memo.md) |
 | 04 | [개](https://www.acmicpc.net/problem/10172) | [풀이](./01.%20입출력과%20사칙연산/04.%20개/10172.js) |  |
 | 05 | [A+B](https://www.acmicpc.net/problem/1000) | [풀이](./01.%20입출력과%20사칙연산/05.%20A%2BB/1000.js) | [메모](./01.%20입출력과%20사칙연산/05.%20A%2BB/memo.md) |
@@ -136,3 +136,6 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | [풀이](./10.%20재귀/01.%20수%20정렬하기/2750.js) |  |
+
+## Etc
+| 01 | [We love kriii](https://www.acmicpc.net/problem/10718) | [풀이](./Etc/We%20love%20kriii) |  |
