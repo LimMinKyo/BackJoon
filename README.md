@@ -24,7 +24,7 @@
 ## 01. 입출력과 사칙연산
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
-| 01 | [Hello World](https://www.acmicpc.net/problem/2557) | [풀이](./01.%20입출력과%20사칙연산/01.%20Hello%20World/2557.js) |  |
+| 01 | [Hello World](https://www.acmicpc.net/problem/2557) | [풀이](./01.%20입출력과%20사칙연산/01.%20Hello%20World) |  |
 | 02 | [We love kriii](https://www.acmicpc.net/problem/10718) | [풀이](./01.%20입출력과%20사칙연산/02.%20We%20love%20kriii/10718.js) |  |
 | 03 | [고양이](https://www.acmicpc.net/problem/10171) | [풀이](./01.%20입출력과%20사칙연산/03.%20고양이/10171.js) | [메모](./01.%20입출력과%20사칙연산/03.%20고양이/memo.md) |
 | 04 | [개](https://www.acmicpc.net/problem/10172) | [풀이](./01.%20입출력과%20사칙연산/04.%20개/10172.js) |  |
