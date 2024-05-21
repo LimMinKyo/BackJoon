@@ -1,7 +1,10 @@
-# Node.js로 백준 알고리즘 단계별로 풀어보기
+# Baekjoon
 
-## 목표
-주 언어인 자바스크립트의 실력 향상과 알고리즘 공부를 위해 백준 사이트의 단계별로 풀어보기를 이용하여 공부하고자 함
+<div>
+  <a href="https://solved.ac/story1454">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=story1454" alt="Solved.ac프로필">
+  </a>
+</div>
 
 ## 참고
 - [Node.js로 백준(BOJ) 문제 풀 때 유의할 점들](https://tesseractjh.tistory.com/39)
