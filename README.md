@@ -25,7 +25,7 @@
 | no | 문제 | 풀이 | 메모 |
 |:--:|:--:|:--:|:--:|
 | 01 | [Hello World](https://www.acmicpc.net/problem/2557) | [풀이](./01.%20입출력과%20사칙연산/01.%20Hello%20World) |  |
-| 02 | [A+B](https://www.acmicpc.net/problem/1000) | [풀이](./01.%20입출력과%20사칙연산/02.%20A+B) | [메모](./01.%20입출력과%20사칙연산/02.%20A%2BB/memo.md) |
+| 02 | [A+B](https://www.acmicpc.net/problem/1000) | [풀이](./01.%20입출력과%20사칙연산/02.%20A+B) | [메모](./01.%20입출력과%20사칙연산/02.%20A%2BB/README.md) |
 | 03 | [A-B](https://www.acmicpc.net/problem/1001) | [풀이](./01.%20입출력과%20사칙연산/03.%20A-B) |  |
 | 04 | [AxB](https://www.acmicpc.net/problem/10998) | [풀이](./01.%20입출력과%20사칙연산/04.%20AxB) |  |
 | 05 | [A÷B](https://www.acmicpc.net/problem/1008) | [풀이](./01.%20입출력과%20사칙연산/05.%20A÷B) |  |
