@@ -5,7 +5,7 @@ fn main() {
 
     io::stdin().read_line(&mut input_numbers).unwrap();
 
-    let numbers: Vec<u32> = input_numbers
+    let numbers: Vec<i32> = input_numbers
         .trim()
         .split_whitespace()
         .map(|x| x.parse().expect("num_error"))
