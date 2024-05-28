@@ -6,8 +6,8 @@ fn main() {
     io::stdin().read_to_string(&mut input_numbers).unwrap();
 
     let numbers: Vec<f64> = input_numbers
-        .split_whitespace()
-        .map(|x| x.parse().expect("num_err"))
+        .split_ascii_whitespace()
+        .flat_map(str::parse::<f64>)
         .collect();
 
     println!("{}", numbers[0] / numbers[1]);
