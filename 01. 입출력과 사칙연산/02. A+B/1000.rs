@@ -1,14 +1,14 @@
-use std::io;
+use std::io::stdin;
 
 fn main() {
     let mut input_numbers = String::new();
 
-    io::stdin().read_line(&mut input_numbers).unwrap();
+    stdin().read_line(&mut input_numbers).unwrap();
 
-    let numbers: Vec<i32> = input_numbers
+    let sum: i32 = input_numbers
         .split_ascii_whitespace()
         .flat_map(str::parse::<i32>)
-        .collect();
+        .sum();
 
-    println!("{}", numbers[0] + numbers[1]);
+    println!("{}", sum);
 }
